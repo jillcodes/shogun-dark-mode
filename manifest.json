@@ -12,7 +12,7 @@
   "author": "Jill @ Shogun",
   "content_scripts": [
     {
-      "css": ["darkmode.css.min"],
+      "css": ["darkmode.min.css"],
       "matches": [
         "https://getshogun.com/admin*",
         "https://next-admin.getshogun.com/*",
