@@ -1,5 +1,5 @@
 {
-  "version": "0.1.4", 
+  "version": "0.2.1", 
   "manifest_version": 2,
   "icons": {
     "16": "images/icon16.png",
@@ -17,7 +17,8 @@
         "https://getshogun.com/admin*",
         "https://next-admin.getshogun.com/*",
         "https://admin.getshogun.com/*",
-        "https://app.intercom.io/*"
+        "https://app.intercom.io/*",
+        "https://app.frontapp.com/*"
       ]     
     }
   ]
