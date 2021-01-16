@@ -18,8 +18,7 @@
         "https://next-admin.getshogun.com/*",
         "https://admin.getshogun.com/*",
         "https://app.intercom.io/*",
-        "https://app.intercom.com/*",
-        "https://app.frontapp.com/*"
+        "https://app.intercom.com/*"
       ]     
     }
   ]
